@@ -1,3 +1,6 @@
+
+#        type() method used to know which data type it is
+
 a=6
 print(a,type(a))
 b=9.0
